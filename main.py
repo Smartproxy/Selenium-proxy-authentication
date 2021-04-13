@@ -1,5 +1,5 @@
 from webdriver_manager.chrome import ChromeDriverManager
-from seleniumwire import webdriver
+from selenium import webdriver
 from extension import proxies
 
 username = 'your_username'
