@@ -1,6 +1,4 @@
 <h2>Username and password proxy authentication with Selenium Chrome</h2>
-
-**Note: At the time of writing this proxy authentication method works only while running a Selenium in headful mode**
  
 To authenticate proxies with username and password on Selenium, the most common approach on various programming languages is to write a custom extension which would handle the proxy connection. Such an extension is shown in extension.py example.
 
