@@ -1,3 +1,7 @@
+<p align="center">
+    <a href="https://dashboard.smartproxy.com/?page=residential-proxies&utm_source=socialorganic&utm_medium=social&utm_campaign=resi_trial_GITHUB"><img src="https://i.imgur.com/3uZgYJ9.png"></a>
+</p>
+
 <h2>Username and password proxy authentication with Selenium Chrome</h2>
  
 To authenticate proxies with username and password on Selenium, the most common approach on various programming languages is to write a custom extension which would handle the proxy connection. Such an extension is shown in extension.py example.
